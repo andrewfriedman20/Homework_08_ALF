@@ -3,7 +3,7 @@
 
 
 
-#Screenshot of Portfolio page
+Screenshot of Portfolio page
 <p align="center">
     <img src="assets/images/Portfolio_Screenshot_1.png" width="50%" height="50%" stylealt="portfolio screenshot"/> 
 </p>
