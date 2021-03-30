@@ -3,6 +3,8 @@
 
 
 
+[Screenshot of Portfolio page](assets/images/Portfolio_Screenshot_1.png)
+
 [Portfolio page](https://andrewfriedman20.github.io/Homework_08_ALF/).
 
 
