@@ -3,7 +3,10 @@
 
 
 
-[Screenshot of Portfolio page](assets/images/Portfolio_Screenshot_1.png)
+Screenshot of Portfolio page
+<p align="center">
+    <img src="assets/images/Portfolio_Screenshot_1.png" width="50%" height="50%" stylealt="portfolio screenshot"/> 
+</p>
 
 [Portfolio page](https://andrewfriedman20.github.io/Homework_08_ALF/).
 
