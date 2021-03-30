@@ -1,6 +1,6 @@
 # Portfolio for Andrew Friedman (updated)
 
-
+This is a portfolio page for the consideration of future employers in the full-stack web development space. The page provides three work samples in its main body: A group project called "Save Your Date! The Restaurant Decisionmaker," "Password Generator," and "The White House Staff Quiz." Each is accompanied by either a screen shot or an animated gif showing user operation. Each portfolio item also includes two live links: one to the deployed page of the project in question, and one for its GitHub Repository.
 
 
 Screenshot of Portfolio page
